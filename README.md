@@ -3,14 +3,14 @@ This repository contains my implementations of various machine learning algorith
 
 
 ## Table of Contents
-Linear Regression - House Price Prediction
-Logistic Regression - Titanic Survival Prediction
-Polynomial Regression - Predicting Nonlinear Relationships
-Decision Trees - Iris Flower Classification
-Random Forest - Customer Churn Prediction
-K-Means Clustering - Customer Segmentation
-PCA - Handwritten Digit Visualization
-Support Vector Machines - Handwritten Digit Classification
-Anomaly Detection - Network Intrusion Detection
-Recommendation System - Movie Recommendations
-Neural Networks - Digit Classification
+1.Linear Regression - House Price Prediction
+2.Logistic Regression - Titanic Survival Prediction
+3.Polynomial Regression - Predicting Nonlinear Relationships
+4.Decision Trees - Iris Flower Classification
+5.Random Forest - Customer Churn Prediction
+6.K-Means Clustering - Customer Segmentation
+7.PCA - Handwritten Digit Visualization
+8.Support Vector Machines - Handwritten Digit Classification
+9.Anomaly Detection - Network Intrusion Detection
+10.Recommendation System - Movie Recommendations
+11.Neural Networks - Digit Classification
